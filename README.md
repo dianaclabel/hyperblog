@@ -1,8 +1,8 @@
-#Hyperblog
+# Hyperblog
 un blog increible para el curso de Git Y Git Hub de platzi.
 > Es un proyecto de prueba  junto con el curso de git Hub de platzi. 
 
-###En este curso vemos de todo
+### En este curso vemos de todo
 - Todos los comandos de git. 
 - El flujo de trabajo de Git Hub
 - El verdadero amor por las buenas practicas.
